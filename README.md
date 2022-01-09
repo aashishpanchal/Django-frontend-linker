@@ -7,9 +7,6 @@ in django project.
 
 Installation
 ------------
-Install package: ::
-
-    $ pip install django-frontend-linker
 
 Add ``'frontlink'`` to the ``INSTALLED_APPS``
 
